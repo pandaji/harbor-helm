@@ -2,6 +2,8 @@
 
 **Notes:** The master branch is in heavy development, please use the other stable versions instead. A high available solution for Harbor based on chart can be find [here](docs/High%20Availability.md). And refer to the [guide](docs/Upgrade.md) to upgrade the existing deployment.
 
+IF ENCOUNTERED INTERNAL SERVER ERROR: DELETE CORE POD AND LET THE DEPLOYMENT REPROVISION THE POD AGAIN.
+
 This repository, including the issues, focus on deploying Harbor chart via helm.  So for the functionality issues or questions of Harbor, please open issues on [goharbor/harbor](https://github.com/goharbor/harbor)
 
 ## Introduction
